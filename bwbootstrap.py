@@ -97,7 +97,7 @@ configs = {
             'TFTP_ON': 'false',
             'TELNET_ON': 'true',
             'USESSL': 'true',
-    Fresh install        'FULLSSL': 'false',
+            'FULLSSL': 'false',
             'NTP_SERVER': 'pool.ntp.org',
             'APACHEHOSTNAME': socket.getfqdn(),
             'REDUNDANTSERVER': 'false',
